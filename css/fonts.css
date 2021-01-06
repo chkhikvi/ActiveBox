@@ -1,0 +1,51 @@
+@font-face {
+  font-family: ci;
+  src: url(../fonts/Cardo-Italic.eot) format("eot"),
+    url(../fonts/Cardo-Italic.svg) format("svg"),
+    url(../fonts/Cardo-Italic.ttf) format("ttf"),
+    url(../fonts/Cardo-Italic.woff) format("woff"),
+    url(../fonts/Cardo-Italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: osb;
+  src: url(../fonts/OpenSans-Bold.eot) format("eot"),
+    url(../fonts/OpenSans-Bold.svg) format("svg"),
+    url(../fonts/OpenSans-Bold.ttf) format("ttf"),
+    url(../fonts/OpenSans-Bold.woff) format("woff"),
+    url(../fonts/OpenSans-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: rb;
+  src: url(../fonts/Raleway-Bold.eot) format("eot"),
+    url(../fonts/Raleway-Bold.svg) format("svg"),
+    url(../fonts/Raleway-Bold.ttf) format("ttf"),
+    url(../fonts/Raleway-Bold.woff) format("woff"),
+    url(../fonts/Raleway-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: rl;
+  src: url(../fonts/Raleway-Light.eot) format("eot"),
+    url(../fonts/Raleway-Light.svg) format("svg"),
+    url(../fonts/Raleway-Light.ttf) format("ttf"),
+    url(../fonts/Raleway-Light.woff) format("woff"),
+    url(../fonts/Raleway-Light.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: rr;
+  src: url(../fonts/Raleway-Regular.eot) format("eot"),
+    url(../fonts/Raleway-Regular.svg) format("svg"),
+    url(../fonts/Raleway-Regular.ttf) format("ttf"),
+    url(../fonts/Raleway-Regular.woff) format("woff"),
+    url(../fonts/Raleway-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: rsb;
+  src: url(../fonts/Raleway-SemiBold.eot) format("eot"),
+    url(../fonts/Raleway-SemiBold.svg) format("svg"),
+    url(../fonts/Raleway-SemiBold.ttf) format("ttf"),
+    url(../fonts/Raleway-SemiBold.woff) format("woff"),
+    url(../fonts/Raleway-SemiBold.woff2) format("woff2");
+}
